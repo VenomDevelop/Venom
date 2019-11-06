@@ -1,8 +1,6 @@
 ## Flow
 
 
-<center><h1>Tokyo, Japan</h1></center>
-
 ### Discussions
 
 <hr>
