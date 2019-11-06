@@ -1,6 +1,7 @@
 ## Flow
 
 
+<center><h1>Tokyo, Japan</h1></center>
 
 ### Discussions
 
@@ -26,7 +27,7 @@ There are no events here now
 
 <hr>
 
-### Weekly News
+## Weekly News
 
 ### Games with Gold November 2019: Great Xbox Live news ahead of Xbox One free games
 Microsoft will reveal the Games with Gold November 2019 titles before the end of the month, and in the meantime, there are loads of Xbox One free games that have been updated this week.
