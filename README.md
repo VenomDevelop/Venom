@@ -4,7 +4,8 @@ Discussions
 
 [General](https://guides.github.com/features/mastering-markdown/) [General (13+)](https://guides.github.com/features/mastering-markdown/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Social
+
 
 ### Markdown
 
