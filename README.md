@@ -56,9 +56,8 @@ So even if the new Games with Gold November launch is still a few weeks away, th
 <script src="https://apis.google.com/js/platform.js"></script>
 
 <div class="g-ytsubscribe" data-channelid="UCxA9ihHPXrg9tttEVuOHFKQ" data-layout="full" data-count="default"></div>
+```
 
-
-```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -74,7 +73,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
