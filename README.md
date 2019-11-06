@@ -4,7 +4,7 @@
 
 ### Discussions
 
-
+<hr>
 
 ### Social
 
@@ -18,9 +18,13 @@ Mixer Streams
 
 Ninja
 
+<hr>
+
 ### Events
 
 There are no events here now 
+
+<hr>
 
 ### Weekly News
 
