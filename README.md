@@ -2,7 +2,7 @@
 
 ### Discussions
 
-[General](https://guides.github.com/features/mastering-markdown/) [General (13+)](https://guides.github.com/features/mastering-markdown/)
+
 
 ### Social
 
