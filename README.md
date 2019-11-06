@@ -51,6 +51,12 @@ Fans can also enjoy the return of the Odyssey: Underworld event, which adds week
 So even if the new Games with Gold November launch is still a few weeks away, there’s plenty of new free content to enjoy on Xbox One.
 
 ```markdown
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UCxA9ihHPXrg9tttEVuOHFKQ" data-layout="full" data-count="default"></div>
+
+
+```markdown
 Syntax highlighted code block
 
 # Header 1
